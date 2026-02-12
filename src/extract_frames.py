@@ -13,7 +13,15 @@ for label in os.listdir(VIDEO_DIR):
     os.makedirs(frame_label_path, exist_ok=True)
 
     for video in os.listdir(label_path):
-        cap = cv2.VideoCapture(os.path.join(label_path, video))
+        
+        video_path = os.path.join(label_path, video)
+        cap = cv2.VideoCapture(video_path)
+
+        if not cap.isOpened():
+            print("Skipping broken video:", video_path)
+            continue
+
+
         count = 0
         saved = 0
 
