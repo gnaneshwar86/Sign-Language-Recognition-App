@@ -1,5 +1,3 @@
-Here is a **clean, professional, GitHub-ready full README.md** for your project.
-You can copy–paste this directly into your repo.
 
 ---
 
@@ -219,17 +217,8 @@ WLASL Repository:
 
 ## 👨‍💻 Author
 
-Your Name
+Gnaneshwar R L
 B.Tech / Computer Science
 Project: Sign Language Recognition System
 
 ---
-
-If you want, I can also give you:
-
-* ⭐ Short professional version (for top of README)
-* 📊 Accuracy + confusion matrix section
-* 🏷 GitHub badges (build, Python version, license)
-* 📄 Full 10–15 page project report
-
-Just tell me 👍
