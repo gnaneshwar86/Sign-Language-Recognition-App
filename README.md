@@ -22,8 +22,7 @@ This project aims to bridge that gap by building an AI-powered system capable of
 ## 📂 Dataset
 
 * Dataset: **WLASL (Word-Level ASL Dataset)**
-* Official Classes: 2000
-* Available Classes (local subset): 190
+* Official Available Classes: 2000
 * Selected Classes for Training: 20–30 (CPU optimized)
 
 > ⚠ The dataset is **not included in this repository** due to licensing (C-UDA agreement) and size constraints.
@@ -218,6 +217,7 @@ WLASL Repository:
 ## 👨‍💻 Author
 
 Gnaneshwar R L
+
 B.Tech / Computer Science
 Project: Sign Language Recognition System
 
