@@ -219,6 +219,7 @@ WLASL Repository:
 Gnaneshwar R L
 
 B.Tech / Computer Science
+
 Project: Sign Language Recognition System
 
 ---
